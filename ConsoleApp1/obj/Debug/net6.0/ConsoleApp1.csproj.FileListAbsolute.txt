@@ -1,0 +1,4 @@
+F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
