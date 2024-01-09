@@ -2,3 +2,17 @@ F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0
 F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
 F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
 F:\university files\лабы\основ пр\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\university files\сана курс\Sana05\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\university files\сана курс\Sana05\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\university files\сана курс\Sana05\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\university files\сана курс\Sana05\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\university files\сана курс\Sana05\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\university files\сана курс\Sana05\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
