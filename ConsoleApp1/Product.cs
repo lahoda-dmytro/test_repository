@@ -29,15 +29,10 @@ namespace ConsoleApp1
             Weight = weight;
         }
 
-        public Product(Product otherProduct)
+        public Product(Product otherProduct) : this(otherProduct.Name, otherProduct.Price, otherProduct.Cost, otherProduct.Quantity, otherProduct.Producer, otherProduct.Weight)
         {
-            Name = otherProduct.Name;
-            Price = otherProduct.Price;
-            Cost = new Currency(otherProduct.Cost);
-            Quantity = otherProduct.Quantity;
-            Producer = otherProduct.Producer;
-            Weight = otherProduct.Weight;
         }
+
 
 
         public string GetName()

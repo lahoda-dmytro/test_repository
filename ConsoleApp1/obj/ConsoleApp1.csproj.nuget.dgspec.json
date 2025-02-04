@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\university files\\сана курс\\Sana05\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\!01 labs\\!02 course\\practice_ed\\test_repository\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "F:\\university files\\сана курс\\Sana05\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\!01 labs\\!02 course\\practice_ed\\test_repository\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\university files\\сана курс\\Sana05\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\!01 labs\\!02 course\\practice_ed\\test_repository\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "F:\\university files\\сана курс\\Sana05\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\!01 labs\\!02 course\\practice_ed\\test_repository\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\roodge322\\.nuget\\packages\\",
-        "outputPath": "F:\\university files\\сана курс\\Sana05\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\!01 labs\\!02 course\\practice_ed\\test_repository\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
