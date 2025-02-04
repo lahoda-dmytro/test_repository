@@ -8,11 +8,12 @@ namespace ConsoleApp1
 {
     public class MyDate
     {
-        protected int Year;
-        protected int Month;
-        protected int Day;
-        protected int Hours;
-        protected int Minutes;
+        public int Year { get; set; }
+        public int Month { get; set; }
+        public int Day { get; set; }   
+        public int Hours { get; set; }
+        public int Minutes { get; set; }
+
 
         public MyDate()
         {
@@ -44,26 +45,7 @@ namespace ConsoleApp1
 
 
 
-        public int GetYear()
-        {
-            return Year;
-        }
-        public int GetMonth()
-        {
-            return Month;
-        }
-        public int GetDay()
-        {
-            return Day;
-        }
-        public int GetHours()
-        {
-            return Hours;
-        }
-        public int GetMinutes()
-        {
-            return Minutes;
-        }
+      
 
 
         public void SetYear(int year)
@@ -73,27 +55,6 @@ namespace ConsoleApp1
 
 
 
-
-        public void SetMonth(int month)
-        {
-            Month = month;
-        }
-
-        public void SetDay(int day)
-        {
-            Day = day;
-        }
-
-
-        public void SetHours(int hours)
-        {
-            Hours = hours;
-        }
-
-        public void SetMinutes(int minutes)
-        {
-            Minutes = minutes;
-        }
 
 
     }
