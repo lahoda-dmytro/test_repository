@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ConsoleApp1
 {
     class MainClass
@@ -17,22 +18,19 @@ namespace ConsoleApp1
             Airplane flight = new Airplane("Kyiv", "Zhytomyr", date1, date2);
 
             Console.WriteLine("Product Information:");
-            Console.WriteLine($"Name: {product.GetName()} {product.GetProducer()}");
-            Console.WriteLine($"Price: {product.GetPrice()} {product.GetCost().GetName()}");
-            Console.WriteLine($"Quantity: {product.GetQuantity()}");
-            Console.WriteLine($"Total Price in UAH: {product.GetTotalPriceInUAH()} UAH");
-            Console.WriteLine($"Total Weight: {product.GetTotalWeight()} kg");
+            Console.WriteLine($"Name: {product.Name} {product.Producer}");
+            Console.WriteLine($"Price: {product.Price} {product.Cost.GetName()}");
+            Console.WriteLine($"Quantity: {product.Quantity}");
+            Console.WriteLine($"Total Price in UAH: {product.TotalPriceInUAH} UAH");
+            Console.WriteLine($"Total Weight: {product.TotalWeight} kg");
+
             Console.WriteLine("\nAirplane Information:");
-            Console.WriteLine($"Departure City: {flight.GetStartCity()}");
-            Console.WriteLine($"Arrival City: {flight.GetFinishCity()}");
-            Console.WriteLine($"Departure Date: {flight.GetStartDate().GetYear()}-{flight.GetStartDate().GetMonth()}-{flight.GetStartDate().GetDay()} {flight.GetStartDate().GetHours()}:{flight.GetStartDate().GetMinutes()}");
-            Console.WriteLine($"Arrival Date: {flight.GetFinishDate().GetYear()}-{flight.GetFinishDate().GetMonth()}-{flight.GetFinishDate().GetDay()} {flight.GetFinishDate().GetHours()}:{flight.GetFinishDate().GetMinutes()}");
+            Console.WriteLine($"Departure City: {flight.StartCity}");
+            Console.WriteLine($"Arrival City: {flight.FinishCity}");
+            Console.WriteLine($"Departure Date: {flight.StartDate.Year}-{flight.StartDate.Month}-{flight.StartDate.Day} {flight.StartDate.Hours}:{flight.StartDate.Minutes}");
+            Console.WriteLine($"Arrival Date: {flight.FinishDate.Year}-{flight.FinishDate.Month}-{flight.FinishDate.Day} {flight.FinishDate.Hours}:{flight.FinishDate.Minutes}");
             Console.WriteLine($"Total Travel Time: {flight.GetTotalTime()} minutes");
             Console.WriteLine($"Is Arriving Today: {flight.IsArrivingToday()}");
-
         }
     }
-
-
-
 }
